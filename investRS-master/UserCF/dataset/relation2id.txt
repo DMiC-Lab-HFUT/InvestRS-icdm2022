@@ -1,0 +1,4 @@
+3
+INVEST	0
+BRANCH	1
+OWN	2

@@ -1,0 +1,9 @@
+8
+BRANCH	0
+SERVE	1
+OWN	2
+INVEST_H	3
+industryof	4
+OWN_C	5
+INVEST	6
+INVEST_C	7
